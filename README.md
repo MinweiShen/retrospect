@@ -14,3 +14,4 @@
 * [DNS解析，A， NS， MX以及CNAME](https://github.com/MinweiShen/retrospect/issues/4)
 * [Security headers](https://github.com/MinweiShen/retrospect/issues/3)
 * [跨域与同源](https://github.com/MinweiShen/retrospect/issues/7)
+* [Raspberry pi折腾记](https://github.com/MinweiShen/retrospect/issues/10)
