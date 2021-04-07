@@ -15,3 +15,4 @@
 * [Security headers](https://github.com/MinweiShen/retrospect/issues/3)
 * [跨域与同源](https://github.com/MinweiShen/retrospect/issues/7)
 * [Raspberry pi折腾记](https://github.com/MinweiShen/retrospect/issues/10)
+* [VS Code不为人知的更新](https://github.com/MinweiShen/retrospect/issues/11)
